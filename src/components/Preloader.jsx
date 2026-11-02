@@ -32,7 +32,7 @@ const Preloader = () => {
           >
             {/* Background text (empty state) */}
             <div className="text-red-900/30">
-              Leeshark<span className="text-red-900/30">.</span>
+              Dilnawaj<span className="text-red-900/30">.</span>
             </div>
 
             {/* Foreground text (water fill state) */}
